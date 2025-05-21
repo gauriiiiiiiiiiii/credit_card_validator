@@ -26,13 +26,15 @@ The Luhn algorithm ✨ is a checksum formula for validating identification numbe
 
 ---
 
-## **Here is the working link** 
+## **Here is the live link**
+
+[Credit Card Validator](https://gauriiiiiiiiiiii.github.io/credit_card_validator/)
 
 ---
 
 ## **❤️ Made by Gauri**
 
-This project was crafted with passion and attention to detail.
+This project was crafted with passion and attention to detail. 
 
 ---
 
