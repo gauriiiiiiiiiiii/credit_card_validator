@@ -1,6 +1,6 @@
-# **💳 Credit Card Validator **
+# **💳 Credit Card Validator**
 
-**Welcome to the Credit Card Validator, a web application that verifies credit card numbers using the Luhn algorithm.**
+Welcome to the Credit Card Validator, a web application that verifies credit card numbers using the Luhn algorithm.
 
 ---
 
@@ -17,7 +17,7 @@
 
 ## **🧠 How it Works (The Luhn Algorithm)**
 
-**The Luhn algorithm ✨ is a checksum formula for validating identification numbers. Here's how it works:**
+The Luhn algorithm ✨ is a checksum formula for validating identification numbers. Here's how it works:
 
 - **Double Every Second Digit:** From the rightmost digit, double every second digit.
 - **Sum Doubled Digits:** If a doubled digit is two-digits (e.g., 14), sum its individual digits (e.g., 1 + 4 = 5).
@@ -32,7 +32,7 @@
 
 ## **❤️ Made by Gauri**
 
-**This project was crafted with passion and attention to detail.**
+This project was crafted with passion and attention to detail.
 
 ---
 
